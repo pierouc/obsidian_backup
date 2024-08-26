@@ -1,0 +1,2 @@
+- [x] Ordenar codigo para copiar archivos desde inboundX_sorted a allStudies
+- [ ] 

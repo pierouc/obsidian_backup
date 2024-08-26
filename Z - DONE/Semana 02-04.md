@@ -1,0 +1,3 @@
+- [ ] Integrar modelos en el backend con fastapi
+- [x] sacar DR nuevo
+- [x] mandar sample de etiquetas con accesion number a médicos, pero de las recuperaciones, 

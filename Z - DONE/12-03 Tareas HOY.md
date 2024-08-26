@@ -1,0 +1,2 @@
+- [x]  Avanzar el ZenML maqueta proximity 1.0
+- [x] sacar estidisticas de datos recibidos (cuantos estudios con 2 o mas series, cuantos han llegado, relacion estudio-reporte, )

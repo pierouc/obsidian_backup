@@ -1,0 +1,6 @@
+- [ ] mandar lista de ANs que no tienen reporte ?????? quizas no
+- [x] entrenar modelos de Manuel [[Manuel Tasks]]
+- [x] agregar filtros de postura de la persona, estas no deben estar en prono sino que en Tórax
+- [x] hacer histograma con bins de 10 imágenes del inbound 6
+- [x] bajar el numero de imágenes mínimas por serie de 200 a 120
+- [ ] 

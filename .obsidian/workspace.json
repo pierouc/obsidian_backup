@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "18ceb0ff91180946",
+    "type": "split",
+    "children": [
+      {
+        "id": "21578d4306331980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d98caeb7db9b6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consideraciones/Resumen de datos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68d329203e04cc4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "1fab6787c583ad36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consideraciones/Chequear Prono y torax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3053e22a1efe5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fad84d5232bb391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c70d35cc9ad3ef45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2bd8e9ca41e1a5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c27675925e0bb53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "007d83476c213966",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08ecf7e37bb8078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d47a89fdf62ab03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Consideraciones/Chequear Prono y torax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2cf371d8c84b67f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Consideraciones/Chequear Prono y torax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1afcab3aaac1ff32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d5c6af03a334913",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Consideraciones/Chequear Prono y torax.md"
+              }
+            }
+          },
+          {
+            "id": "e5b4bfc2147cefa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c70d35cc9ad3ef45",
+  "lastOpenFiles": [
+    "files/20240207-1921-49.3798988.mp4",
+    "Consideraciones/Chequear Prono y torax.md",
+    "Consideraciones/Directory tree format.md",
+    "Consideraciones/Resumen de datos.md",
+    "Consideraciones/Que es alpacs.md",
+    "Consideraciones/Que es Proximity.md",
+    "Z - DONE/Tareas 25-07-24.md",
+    "Z - DONE/NEGRU.md",
+    "TODO Negru.md",
+    "files/Pasted image 20240731211946.png",
+    "Consideraciones/Estadísticas de datos hasta el 13-03-2024.md",
+    "Consideraciones/NO OLVIDAR.md",
+    "Consideraciones/Ideas para creacion de datasets.md",
+    "Consideraciones/Consideraciones para crear datarelease.md",
+    "Z - DONE/Ayudantia/Proyecto.md",
+    "().md",
+    "files/Pasted image 20240622040118.png",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "Z - DONE/Ayudantia/Tarea 3.md",
+    "Z - DONE/Ayudantia/Tarea 2.md",
+    "Z - DONE/Ayudantia/Fechas e ideas.md",
+    "Z - DONE/HOY.md",
+    "Z - DONE/Semana 02-04.md",
+    "Z - DONE/Manuel Tasks.md",
+    "files/Pasted image 20240403124601.png",
+    "files/Pasted image 20240319173907.png",
+    "files/Pasted image 20240403124307.png",
+    "files/Pasted image 20240403124528.png",
+    "files/Pasted image 20240312164128.png",
+    "Z - DONE/Entregas sin deadline aun.md",
+    "Z - DONE/Creación de datareleases.md",
+    "Z - DONE/Tasks semana 18-03.md",
+    "Z - DONE/Entregas sem. 05-01-24.md",
+    "Z - DONE/12-03 Tareas HOY.md",
+    "TO DO/Proximity",
+    "Z - DONE/Ayudantia",
+    "files",
+    "Z - DONE/Sin título.canvas",
+    "Consideraciones",
+    "TO DO",
+    "Z - DONE",
+    "Untitled.canvas"
+  ]
+}
